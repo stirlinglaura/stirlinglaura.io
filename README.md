@@ -17,7 +17,7 @@ I am currently learning python..
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning **Fullstack at Codecademy**
+- 🌱 I’m currently learning **Information Technology**
 - 👯 I’m looking to collaborate on great projects!
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
