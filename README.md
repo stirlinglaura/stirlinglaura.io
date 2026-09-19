@@ -1,7 +1,7 @@
 # stirlinglaura.github.io
 ### 👋👋 my name is Laura
 
-I'm passionate about coding and technology, currently diving deep into **Information Technology** and exploring the world of **web development**. I love to learn and experiment with **HTML**, **CSS**, **JavaScript**, and **C#** and other new ones too :) 
+I'm passionate about coding and technology, currently diving deep into **Information Technology** and exploring the world of **web development** plus AI. I love to learn and experiment with **HTML**, **CSS**, **JavaScript**, and **C#** **Java**, **React **, and more :) 
 
 I'm always open to collaborating on exciting projects, especially those involving **web development** or **app development**. Let's create something great together! 🚀
 
@@ -11,7 +11,7 @@ I'm always open to collaborating on exciting projects, especially those involvin
 ⚡ Fun fact: The name of my cat is "Bit" 🐈
 
 ## 💻 Skills:
-- **Languages**: HTML5, CSS, JavaScript, C#
+- **Languages**: HTML5, CSS, JavaScript, C#, Java, React
 - **Frameworks**:  .NET , Ionic
 - **Tools**: Github, Visual Studio Code
 - **Databases**: SQL, MongoDB
